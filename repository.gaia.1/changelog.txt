@@ -1,4 +1,7 @@
 
+[B]1.5.0 (2018.03.06)[/B]
+- Update for the new repository.
+
 [B]1.0.0 (2018.01.12)[/B]
 - Initial release.
 
