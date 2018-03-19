@@ -1,3 +1,6 @@
+[B]Version 4.0.05[/B]
+- Default url change
+
 [B]Version 4.0.04[/B]
 - New Repo
 
