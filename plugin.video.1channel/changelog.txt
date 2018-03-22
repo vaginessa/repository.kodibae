@@ -1,3 +1,6 @@
+[B]Version 4.0.06[/B]
+- Error fix
+
 [B]Version 4.0.05[/B]
 - Default url change
 

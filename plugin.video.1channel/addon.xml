@@ -1,4 +1,4 @@
-<addon id="plugin.video.1channel" version="4.0.05" name="PrimeWire" provider-name="k3l3vra">
+<addon id="plugin.video.1channel" version="4.0.06" name="PrimeWire" provider-name="k3l3vra">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
         <import addon="script.module.urlresolver" version="3.0"/>
