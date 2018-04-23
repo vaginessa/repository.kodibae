@@ -1,0 +1,57 @@
+<repositories>
+
+	<repository>
+      <name>Nixgates</name>
+      <username>nixgates</username>
+      <description>Incursion, Anime Incursion, WatchNixtoons</description>
+	</repository>
+	
+	<repository>
+      <name>Gaia</name>
+      <username>gaiaorigin</username>
+      <description>Gaia</description>
+	</repository>
+	
+	<repository>
+      <name>Kodi Bae</name>
+      <username>kodibae</username>
+      <description>Exodus, 1Channel, Ultimate IPTV</description>
+	</repository>
+   
+	<repository>
+      <name>Mr. Blamo</name>
+      <username>MrBlamo420</username>
+      <description>Death Streams, Neptune Rising, Placenta</description>
+	</repository>
+	
+	<repository>
+      <name>Iceballs</name>
+      <username>Iceballs</username>
+      <description>IceFilms, 1Channel</description>
+	</repository>
+	
+	<repository>
+      <name>DxCx</name>
+      <username>dxcx</username>
+      <description>9Anime</description>
+	</repository>
+	
+	<repository>
+      <name>elgatito</name>
+      <username>elgatito</username>
+      <description>Elementum</description>
+	</repository>
+
+	<repository>
+      <name>iwannabelikemike</name>
+      <username>iwannabelikemike</username>
+      <description>Sparkle</description>
+	</repository>
+	
+	<repository>
+      <name>Mr Entertainment</name>
+      <username>MrEntertainment</username>
+      <description>Release HUB</description>
+	</repository>
+
+</repositories>
